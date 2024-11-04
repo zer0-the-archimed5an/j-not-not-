@@ -85,7 +85,7 @@ J(not(not)) is my personal take on generating a cool SYSTEMS language.
 
 - **Folding Points**: 
   - **Description**: Indicated by `{}` or `[]` to signal where folding occurs.
-  - **Example**: `{}([](<>), ...)`
+  - **Example**: `{}([](<>(...))...))))`
 
 - **Shroud**: 
   - **Description**: An equivalence relation used when accessing attributes.
@@ -93,23 +93,23 @@ J(not(not)) is my personal take on generating a cool SYSTEMS language.
 
 ### File Extensions
 
-- **.tmplt**: 
+- **(%).tmplt**: 
   - **Description**: Template files that define processes or structures.
   
-- **.ntmplt**: 
-  - **Description**: Non-template files, possibly for raw data or configurations.
+- **(%).ntmplt**: 
+  - **Description**: Functionally orthogonal to template files, possibly for raw data or configurations.
 
-- **.prtc0l**: 
+- **(%).prtc0l**: 
   - **Description**: Protocol files that define interactions or relationships between processes.
 
-- **.fold**: 
+- **(%).fold**: 
   - **Description**: Files that specifically contain folding points or structures.
 
-- **.unfold**: 
+- **(%).unfold**: 
   - **Description**: Files that contain unfolding logic or definitions.
 
-- **.metric**: 
-  - **Description**: Files that define measurement metrics or functions.
+- **(%).metron**: 
+  - **Description**: Files that define measurement of any kind.
 
 ### Example Usage
 
