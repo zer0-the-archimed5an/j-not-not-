@@ -4,20 +4,35 @@ _(seishi)_
 TMPLT: (The )Lever( of Theseus) of The Palimpsest
 
 ## Notes
-NOTES::: (some ideas i'm working on)
+NOTES:(:: some ideas i'm working on)
 
 ## The 5 Postulate5 of Process Geometry
 These generate the entire thing and are minnimal. 
 J(not(not)) is my personal take on generating a cool SYSTEMS language.
 
 ## The Quintessent
-- THE_QUINTESSENT::: ()
-    -THE_PRIME:::
-        - RELATIONSHIP
-        - TRANSFORMATION
-        - INTERACTIONS
-        - IRREDUCIBILITY
-        - NEGATION
+- THE_QUINTESSENT:(::THE_PRIME5)
+# Summary of Key Building Blocks
+
+## RELATIONSHIP
+- Establishes a framework for interaction between the user and the system.
+- Defines how the system responds based on user input, reflecting relationships among programming components.
+
+## TRANSFORMATION
+- Mechanism for process evolution and canonical decomposition.
+- Dictates how user prompts are transformed into coherent responses, outlining guiding rules and structures.
+
+## INTERACTIONS
+- Focuses on event handling and coherence transformation.
+- Defines user engagement and sets the stage for dialogue, facilitating interaction through established rules.
+
+## IRREDUCIBILITY
+- Encapsulates fundamental principles that cannot be simplified further.
+- Maintains the integrity of the interaction process within defined parameters.
+
+## NEGATION
+- Defines limitations and exclusions, indicating what the system will not do.
+- Sets boundaries for user expectations and interaction guidelines.
 
 ## J(not(not)) Language Syntax Glossary
 
