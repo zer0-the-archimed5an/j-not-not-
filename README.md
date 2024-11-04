@@ -1,7 +1,7 @@
 _(seishi)_
 
 # j(not(not))
-TMPLT: The Lever of The Palimpsest
+TMPLT: (The )Lever( of Theseus) of The Palimpsest
 
 ## Notes
 NOTES::: (some ideas i'm working on)
@@ -10,7 +10,7 @@ NOTES::: (some ideas i'm working on)
 These generate the entire thing and are minnimal. 
 J(not(not)) is my personal take on generating a cool SYSTEMS language.
 
-##
+## The Quintessent
 - THE_QUINTESSENT::: ()
     -THE_PRIME:::
         - RELATIONSHIP
