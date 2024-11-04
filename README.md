@@ -12,8 +12,7 @@ J(not(not)) is my personal take on generating a cool SYSTEMS language.
 
 ## The Quintessent
 - THE_QUINTESSENT:(::THE_PRIME5)
-# Summary of Key Building Blocks
-
+#
 ## RELATIONSHIP
 - Establishes a framework for interaction between the user and the system.
 - Defines how the system responds based on user input, reflecting relationships among programming components.
