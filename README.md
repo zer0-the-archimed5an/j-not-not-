@@ -3,13 +3,14 @@ _(seishi)_
 # j(not(not))
 TMPLT: The Lever of The Palimpsest
 
-# Notes
+## Notes
 NOTES::: (some ideas i'm working on)
 
-# The 5 Postulate5 of Process Geometry
+## The 5 Postulate5 of Process Geometry
 These generate the entire thing and are minnimal. 
 J(not(not)) is my personal take on generating a cool SYSTEMS language.
 
+##
 - THE_QUINTESSENT::: ()
     -THE_PRIME:::
         - RELATIONSHIP
@@ -18,9 +19,9 @@ J(not(not)) is my personal take on generating a cool SYSTEMS language.
         - IRREDUCIBILITY
         - NEGATION
 
-# J(not(not)) Language Syntax Glossary
+## J(not(not)) Language Syntax Glossary
 
-## Constructs
+### Constructs
 
 - **TMPLT**: (Choose you Body of Knowledge and sort it using the The Quintessent( aka the Primes) ).
   - **Description**: Indicates a template definition.
@@ -50,7 +51,7 @@ J(not(not)) is my personal take on generating a cool SYSTEMS language.
   - **Description**: A section or process that encapsulates fundamental principles.
   - **Example**: `THE_QUINTESSENT:::`
 
-## Methods
+### Methods
 
 - **seishi(gh5t)**: 
   - **Description**: Method to add a ghst process.
@@ -70,7 +71,7 @@ J(not(not)) is my personal take on generating a cool SYSTEMS language.
   - **Description**: Method to execute folding points.
   - **Example**: `process F0LD():: { for P0JNT in fld:: { ... } }`
 
-## Comments
+### Comments
 
 - **Parentheses for Comments**: 
   - **Description**: Used to add comments anywhere in the code.
@@ -80,7 +81,7 @@ J(not(not)) is my personal take on generating a cool SYSTEMS language.
   - **Description**: Used to define multi-line comments or documentation.
   - **Example**: `""" This is a multi-line comment """`
 
-## Special Markers
+### Special Markers
 
 - **Folding Points**: 
   - **Description**: Indicated by `{}` or `[]` to signal where folding occurs.
@@ -90,7 +91,7 @@ J(not(not)) is my personal take on generating a cool SYSTEMS language.
   - **Description**: An equivalence relation used when accessing attributes.
   - **Example**: `_shroud_J = SHROUD:::`
 
-## File Extensions
+### File Extensions
 
 - **.tmplt**: 
   - **Description**: Template files that define processes or structures.
@@ -110,7 +111,7 @@ J(not(not)) is my personal take on generating a cool SYSTEMS language.
 - **.metric**: 
   - **Description**: Files that define measurement metrics or functions.
 
-## Example Usage
+### Example Usage
 
 (don't forget to close the fold( marker folds can really be anything, but these make sense to me))
 
