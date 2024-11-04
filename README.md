@@ -3,11 +3,15 @@ _(seishi)_
 # j(not(not))
 TMPLT: The Lever of The Palimpsest
 
+# Notes
 NOTES::: (some ideas i'm working on)
 
+# The 5 Postulate5 of Process Geometry
+These generate the entire thing and are minnimal. 
+J(not(not)) is my personal take on generating a cool SYSTEMS language.
 
-THE_QUINTESSENT::: (The 5 Postulate5 of Process Geometry)
-    THE_PRIME:::
+- THE_QUINTESSENT::: ()
+    -THE_PRIME:::
         - RELATIONSHIP
         - TRANSFORMATION
         - INTERACTIONS
