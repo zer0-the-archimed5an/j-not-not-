@@ -5,6 +5,15 @@ TMPLT: The Lever of The Palimpsest
 
 NOTES::: (some ideas i'm working on)
 
+
+THE_QUINTESSENT::: (The 5 Postulate5 of Process Geometry)
+    THE_PRIME:::
+        - RELATIONSHIP
+        - TRANSFORMATION
+        - INTERACTIONS
+        - IRREDUCIBILITY
+        - NEGATION
+
 # J(not(not)) Language Syntax Glossary
 
 ## Constructs
