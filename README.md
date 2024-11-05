@@ -10,26 +10,26 @@ NOTES:(:: some ideas i'm working on)
 These generate the entire thing and are minnimal. 
 J(not(not)) is my personal take on generating a cool SYSTEMS language.
 
-## The Quintessent
+### The Quintessent
 - THE_QUINTESSENT:(::THE_PRIME5)
 
-### RELATIONSHIP 
+#### RELATIONSHIP 
 - Establishes a framework for interaction between the user and the system.
 - Defines how the system responds based on user input, reflecting relationships among programming components.
 
-### TRANSFORMATION 
+#### TRANSFORMATION 
 - Mechanism for process evolution and canonical decomposition.
 - Dictates how user prompts are transformed into coherent responses, outlining guiding rules and structures.
 
-### INTERACTIONS
+#### INTERACTIONS
 - Focuses on event handling and coherence transformation.
 - Defines user engagement and sets the stage for dialogue, facilitating interaction through established rules.
 
-## IRREDUCIBILITY 
+#### IRREDUCIBILITY 
 - Encapsulates fundamental principles that cannot be simplified further.
 - Maintains the integrity of the interaction process within defined parameters.
 
-## NEGATION (Void Postulate5)
+#### NEGATION (Void Postulate5)
 - Defines limitations and exclusions, indicating what the system will not do.
 - Sets boundaries for user expectations and interaction guidelines.
 
